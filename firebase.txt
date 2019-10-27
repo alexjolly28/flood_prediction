@@ -1,0 +1,10 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyAUW5isJoxjlgWxwOpEaQr4oWiPNwydG04",
+  authDomain: "openhack-fac81.firebaseapp.com",
+  databaseURL: "https://openhack-fac81.firebaseio.com",
+  projectId: "openhack-fac81",
+  storageBucket: "openhack-fac81.appspot.com",
+  messagingSenderId: "301590232536",
+  appId: "1:301590232536:web:bba6e903ab3f7384ee46ad",
+  measurementId: "G-ZBQL6QZ1ZD"
+};
